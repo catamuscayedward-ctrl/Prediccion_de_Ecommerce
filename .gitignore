@@ -1,0 +1,23 @@
+# ---- Dataset completo (8.5 GB) - NO subir a git ----
+Proyecto_Ecommerce/Dataset/2019-Nov.csv
+2019-Nov.csv.zip
+
+# ---- Artículos de referencia (binarios, no necesarios para la app) ----
+articulos/*.pdf
+articulos/_txt/
+
+# ---- Documentos Word (entregables en edición) ----
+*.docx
+
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# ---- Streamlit ----
+.streamlit/secrets.toml
+
+# ---- Sistema ----
+Thumbs.db
+.DS_Store
